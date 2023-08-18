@@ -1,0 +1,3 @@
+node-telegram-bot-api
+axios
+nsfwjs
