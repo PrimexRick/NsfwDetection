@@ -1,7 +1,7 @@
 #NsfwDetection
 
 <p align="center">
-  <img src="[https://telegra.ph/file/7e61fe06a9c02747249c4.jpg](https://te.legra.ph//file/1d6ad5e04d62a6c0fb933.jpg)">
+  <img src="[https://te.legra.ph//file/1d6ad5e04d62a6c0fb933.jpg](https://t.me/CipherFlame)">
 </p>
 
 # Cipher
