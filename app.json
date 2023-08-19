@@ -1,0 +1,23 @@
+{
+  "name": "NSFWdetection",
+  "description": "telegram bot in javascript to stop nsfw spams",
+  "repository": "https://github.com/PrimexRick/NsfwDetection",
+  "keywords": ["javascript", "app"],
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
+  "dependencies": {
+    "express": "^4.17.1"  // Example dependency, replace with your actual dependencies
+  },
+  "engines": {
+    "node": "14.x"  // Use the version of Node.js your app requires
+  }
+}
