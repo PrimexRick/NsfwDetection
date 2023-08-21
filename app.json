@@ -15,9 +15,9 @@
     }
   ],
   "dependencies": {
-    "express": "^4.17.1"  // Example dependency, replace with your actual dependencies
+    "express": "^4.17.1"
   },
   "engines": {
-    "node": "14.x"  // Use the version of Node.js your app requires
+    "node": "14.x"  
   }
 }
