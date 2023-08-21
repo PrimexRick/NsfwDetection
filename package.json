@@ -1,12 +1,12 @@
 {
   "name": "nsfwdetectionbot",
   "version": "1.0.0",
-  "main": "nsfwdetection.js",
+  "main": "nsfwdetection.cjs",
   "author": "ARCHISMAN <archismanmajumdar2005@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon nsfwdetection.js",
-    "start": "node nsfwdetection.js"
+    "dev": "nodemon nsfwdetection.cjs",
+    "start": "node nsfwdetection.cjs"
   },
   "dependencies": {
     "dotenv": "^16.1.4",
