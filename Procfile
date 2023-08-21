@@ -1,1 +1,1 @@
-worker: node nsfwdetectionbot.js
+worker: node nsfw
