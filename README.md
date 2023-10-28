@@ -22,4 +22,4 @@ Well, it's all in the commit history Feel free to open pull requests should any 
 </p>
 
 
-**Please Notify That The Project Is Not Complete And Contains Errors**
+**Please Note That The Project Is Not Complete And Contains Errors**
